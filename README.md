@@ -3,21 +3,17 @@
 <h3 align="center">Frontend Developer from Poland.</h3>
 
 
-## 👀 My Website
+## 👀 My Projects
 
+### Personal Page 
 In progress
 
-[//]: # ()
-[//]: # (- 🌱 I’m currently learning **Javascript, Bootstrap and React**)
+### Frontendmentor.io
+- (REST Countries API) - In progress
+- (Interactive Comment Section)[https://github.com/slothmast3r/interactive-comment-section] - (code)[https://github.com/slothmast3r/interactive-comment-section] Intermediate
+- (NFT Card Component)[https://slothmast3r.github.io/nft-component/] - (code)[https://github.com/slothmast3r/nft-component] Newbie
+- (QR-Code)[https://slothmast3r.github.io/qr-code-component/] - (code)[https://github.com/slothmast3r/qr-code-component] Newbie 
 
-[//]: # ()
-[//]: # (- 👨‍💻 All of my projects are available at **[My Portfolio]&#40;https://buysmanagement.co.za/portfolio&#41;**)
-
-[//]: # ()
-[//]: # (- 📫 How to reach me **tarin@buysmanagement.co.za**)
-
-[//]: # ()
-[//]: # (- ⚡ Fun fact **I'm a business management student and digital nomad**)
 
 ## 🚀 Languages and Tools:
 
