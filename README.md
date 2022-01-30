@@ -9,7 +9,7 @@
 [Website](https://slothmast3r.github.io/personal-page-new/) In progress
 
 ### Frontendmentor.io
-- [REST Countries API](https://slothmast3r.github.io/rest-countries/) - [code](https://github.com/slothmast3r/rest-countries) **Advanced** _In progress_
+- [REST Countries API](https://slothmast3r.github.io/rest-countries/) - [code](https://github.com/slothmast3r/rest-countries) **Advanced**
 - [Interactive Comment Section](https://slothmast3r.github.io/interactive-comment-section/) - [code](https://github.com/slothmast3r/interactive-comment-section) **Intermediate**
 - [NFT Card Component](https://slothmast3r.github.io/nft-component/) - [code](https://github.com/slothmast3r/nft-component) **Newbie**
 - [QR-Code](https://slothmast3r.github.io/qr-code-component/) - [code](https://github.com/slothmast3r/qr-code-component) **Newbie**
