@@ -15,7 +15,7 @@
 - [QR-Code](https://slothmast3r.github.io/qr-code-component/) - [code](https://github.com/slothmast3r/qr-code-component) **Newbie**
 
 ### Inne zadania
-- [Enigma Zadanie rekrutacyjne - markery na mapie z grupowaniem](https://slothmast3r.github.io/enigma-zadanie-rekrutacyjne/) - [code](https://github.com/slothmast3r/enigma-zadanie-rekrutacyjne)
+- [Markery na mapie z grupowaniem](https://slothmast3r.github.io/enigma-zadanie-rekrutacyjne/) - [code](https://github.com/slothmast3r/enigma-zadanie-rekrutacyjne)
 
 ## 🚀 Languages and Tools:
 
