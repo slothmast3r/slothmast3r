@@ -10,13 +10,13 @@
 
 ### Frontendmentor.io
 - [REST Countries API](https://slothmast3r.github.io/rest-countries/) - [code](https://github.com/slothmast3r/rest-countries) **Advanced**
+- [Calculator](https://slothmast3r.github.io/calculator-FEMio/) - [code](https://github.com/slothmast3r/calculator-FEMio) **Advanced**
 - [Interactive Comment Section](https://slothmast3r.github.io/interactive-comment-section/) - [code](https://github.com/slothmast3r/interactive-comment-section) **Intermediate**
 - [NFT Card Component](https://slothmast3r.github.io/nft-component/) - [code](https://github.com/slothmast3r/nft-component) **Newbie**
 - [QR-Code](https://slothmast3r.github.io/qr-code-component/) - [code](https://github.com/slothmast3r/qr-code-component) **Newbie**
 
 ### Inne zadania
 - [Markery na mapie z grupowaniem](https://slothmast3r.github.io/enigma-zadanie-rekrutacyjne/) - [code](https://github.com/slothmast3r/enigma-zadanie-rekrutacyjne)
-
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
