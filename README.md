@@ -6,7 +6,7 @@
 ## 👀 My Projects
 
 ### Personal Page 
-[Website](https://slothmast3r.github.io/personal-page-new/) _In progress_
+[Website](https://my-personal-website-fm4ysui7d-slothmast3rs-projects.vercel.app/#home) _In progress_
 
 ### Frontendmentor.io
 - [REST Countries API](https://slothmast3r.github.io/rest-countries/) - [code](https://github.com/slothmast3r/rest-countries) **Advanced**
