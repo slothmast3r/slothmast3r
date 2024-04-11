@@ -19,13 +19,18 @@
 - [Markery na mapie z grupowaniem](https://slothmast3r.github.io/enigma-zadanie-rekrutacyjne/) - [code](https://github.com/slothmast3r/enigma-zadanie-rekrutacyjne)
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img width="50" src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://sass-lang.com/" target="_blank"> <img width="50" src="https://www.pngrepo.com/png/354310/180/sass.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://vuejs.org/" target="_blank"> <img width="50" src="https://gitlab.cern.ch/uploads/-/system/project/avatar/78156/logo.png"/> </a>     <a href="https://reactjs.org/" target="_blank"> <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/128px-React-icon.svg.png"/> </a> 
-
+<p align="left">
+    <a href="https://www.w3.org/html/" target="_blank"> <img width="50" src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
+    <a href="https://sass-lang.com/" target="_blank"> <img width="50" src="https://www.pngrepo.com/png/354310/180/sass.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+    <a href="https://vuejs.org/" target="_blank"> <img width="50" src="https://gitlab.cern.ch/uploads/-/system/project/avatar/78156/logo.png"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/128px-React-icon.svg.png"/> </a>
+    <!-- Python -->
+    <a href="https://www.python.org/" target="_blank"> <img width="50" src="https://img.icons8.com/color/48/000000/python.png"/> </a>
+    <!-- Next.js -->
+    <a href="https://nextjs.org/" target="_blank"> <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg"/> </a>
 </p>
+
 
 
 ## 📊 My Github Stats
