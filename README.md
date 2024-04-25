@@ -6,17 +6,15 @@
 ## 👀 My Projects
 
 ### Personal Page 
-[Website](https://my-personal-website-fm4ysui7d-slothmast3rs-projects.vercel.app/#home) _In progress_
+[Website](https://my-personal-website-fm4ysui7d-slothmast3rs-projects.vercel.app/#home) _In progress_  [code](https://github.com/slothmast3r/my-personal-website) Next.js, typescript 2024
 
 ### Frontendmentor.io
-- [REST Countries API](https://slothmast3r.github.io/rest-countries/) - [code](https://github.com/slothmast3r/rest-countries) **Advanced**
-- [Calculator](https://slothmast3r.github.io/calculator-ts/) - [code](https://github.com/slothmast3r/calculator-ts) **Advanced**
-- [Interactive Comment Section](https://slothmast3r.github.io/interactive-comment-section/) - [code](https://github.com/slothmast3r/interactive-comment-section) **Intermediate**
-- [NFT Card Component](https://slothmast3r.github.io/nft-component/) - [code](https://github.com/slothmast3r/nft-component) **Newbie**
-- [QR-Code](https://slothmast3r.github.io/qr-code-component/) - [code](https://github.com/slothmast3r/qr-code-component) **Newbie**
+- [REST Countries API](https://slothmast3r.github.io/rest-countries/) - [code](https://github.com/slothmast3r/rest-countries) **Advanced** vue 2022
+- [Calculator](https://slothmast3r.github.io/calculator-ts/) - [code](https://github.com/slothmast3r/calculator-ts) **Advanced** vue 2022
+- [Interactive Comment Section](https://slothmast3r.github.io/interactive-comment-section/) - [code](https://github.com/slothmast3r/interactive-comment-section) **Intermediate** vue 2022
+- [NFT Card Component](https://slothmast3r.github.io/nft-component/) - [code](https://github.com/slothmast3r/nft-component) **Newbie** vue 2022
+- [QR-Code](https://slothmast3r.github.io/qr-code-component/) - [code](https://github.com/slothmast3r/qr-code-component) **Newbie** vue 2022
 
-### Inne zadania
-- [Markery na mapie z grupowaniem](https://slothmast3r.github.io/enigma-zadanie-rekrutacyjne/) - [code](https://github.com/slothmast3r/enigma-zadanie-rekrutacyjne)
 ## 🚀 Languages and Tools:
 
 <p align="left">
